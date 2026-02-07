@@ -141,6 +141,13 @@ Download and share your personalized plan:
 
 ---
 
+## 🚀 Live Demo
+
+Don't want to run the code? Test the model immediately on the deployed Streamlit app:
+
+👉 **[Launch Diet Planner](https://mealplannerindia.streamlit.app/)**
+
+---
 ## 📦 Installation
 
 ### Full Setup Instructions
@@ -334,15 +341,6 @@ A: Yes! The app provides portion suggestions based on meal type and detailed mac
 
 **Q: Is this suitable for athletes?**
 A: Absolutely! Set "Very Active" activity level and "Gain" goal for high-performance nutrition.
-
----
-
-## 📬 Contact & Support
-
-For questions, feedback, or feature requests:
-- 📧 Email: [Your Email Here]
-- 🐛 Issues: [GitHub Issues Link]
-- 💬 Discussions: [GitHub Discussions Link]
 
 ---
 
